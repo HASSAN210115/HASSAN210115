@@ -16,11 +16,10 @@
 
 - 🎓 I'm currently a high school student (Syrian Baccalaureate Scientific stream)  
 - 💻 Exploring **Web Development** (HTML, CSS, Python, JS)  
-- 🚀 Currently building small projects like **Portfolio** and **Calculator**  
+- 🚀 Currently building small projects 
 - 🌱 Learning **Python** step by step, alongside CSS & JS  
-- 🔐 Interested in **Cyber Security** (planning to start with computer basics)  
-- ⚽ Passionate about **Football** and calisthenics training  
-- 🥅 2025 Goals: Finish Python roadmap, build interactive projects, start with **Java** and dive deeper into Cyber Security  
+- 🔐 Interested in **Cyber Security** (planning to start with computer basics)   
+- 🥅 2025 Goals: Finish Python roadmap, build interactive projects
 
 <br>
 
