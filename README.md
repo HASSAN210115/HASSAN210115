@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-<h1>Hey there, Siddheya this side!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>Hey there, Mustafa here! <img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
 
 </div>
 
@@ -14,11 +14,13 @@
 
 ### 💫 About Me
 
-- 💼 I'm a web development
-- 🔭 I’m currently working on Front end Development
-- 🌱 I’m currently learning JS
-- 👯 I’m looking to collaborate with open source enthusiasts
-- 🥅 2025 Goals: Learn JS, Nodejs And react
+- 🎓 I'm currently a high school student (Syrian Baccalaureate Scientific stream)  
+- 💻 Exploring **Web Development** (HTML, CSS, Python, JS)  
+- 🚀 Currently building small projects like **Portfolio** and **Calculator**  
+- 🌱 Learning **Python** step by step, alongside CSS & JS  
+- 🔐 Interested in **Cyber Security** (planning to start with computer basics)  
+- ⚽ Passionate about **Football** and calisthenics training  
+- 🥅 2025 Goals: Finish Python roadmap, build interactive projects, start with **Java** and dive deeper into Cyber Security  
 
 <br>
 
@@ -26,21 +28,19 @@
 
 <div align="center">
 
-<a href="https://instagram.com/sid_kulkarni_712" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/siddheya-kulkarni" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/SidKulkarni712" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
 
 <br>
-
 
 ## 💻 Tech Stack:
 
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python=11" />
+<img src="https://skillicons.dev/icons?i=html,css,python,javascript,java" />
 </a>
 
 </div>
@@ -55,7 +55,7 @@
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asymtode712&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asymtode712&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asymtode712&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asymtode712&theme=radical&utcOffset=8">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asymtode712&theme=radical&utcOffset=3">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Asymtode712&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=Asymtode712&theme=radical">
 
@@ -67,36 +67,14 @@
 <img src="https://github-trophies.vercel.app/?username=Asymtode712&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
-# 🎖 Badges
-
-### GSSoC'24 Badges
-
-<div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="./assets/postman.png" width="85px" height="85px" />
-  <img src="./assets/1.png" width="85px" height="85px" />
-  <img src="./assets/2.png" width="85px" height="85px" />
-  <img src="./assets/3.png" width="85px" height="85px" />
-  <img src="./assets/4.png" width="85px" height="85px" />
-  <img src="./assets/5.png" width="85px" height="85px" />
-  <img src="./assets/6.png" width="85px" height="85px" />
-  <img src="./assets/7.png" width="85px" height="85px" />
-</div>
-<br>
-<details>
-  <summary><b> HoloPin Badges </b></summary>
-  
-[![@asymtode712's Holopin board](https://holopin.me/asymtode712)](https://holopin.io/@asymtode712)
-
-</details><br/>
-
 <hr>
 
 <p align="center">
-  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+  <b>Thanks for stopping by! If you like what I'm doing, consider supporting me ☕</b>
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/siddheyakue" target="_blank">
+  <a href="https://buymeacoffee.com" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
   </a>
 </p>
