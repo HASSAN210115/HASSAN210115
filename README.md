@@ -14,11 +14,11 @@
 
 ### 💫 About Me
 
-- 💼 I'm a Software Engineer
-- 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning DevOps
+- 💼 I'm a web development
+- 🔭 I’m currently working on Front end Development
+- 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate with open source enthusiasts
-- 🥅 2025 Goals: Learn DevOps, Nextjs And strengthen DSA
+- 🥅 2025 Goals: Learn JS, Nodejs And react
 
 <br>
 
@@ -40,7 +40,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,angular,jquery,materialui,tailwind,redux,ts,vite,php,mongodb,mysql,threejs,django,next,postman,cpp,java,aws,ruby,heroku,vercel,netlify,firebase,git,bash,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python=11" />
 </a>
 
 </div>
